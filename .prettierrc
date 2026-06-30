@@ -1,0 +1,10 @@
+{
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "ignore",
+  "overrides": [{ "files": "*.html", "options": { "parser": "angular" } }],
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "singleQuote": true,
+  "tailwindFunctions": ["vx"],
+  "trailingComma": "all"
+}
